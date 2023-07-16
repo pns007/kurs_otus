@@ -4,7 +4,7 @@
 		<Metadata name="Catalog.Склады" id="8d32628e-3ea5-40de-b66f-467231e78d34" configVersion="7628c0c55ef56841a48351aad9b421a600000000"/>
 		<Metadata name="Catalog.Склады.Predefined" id="8d32628e-3ea5-40de-b66f-467231e78d34.1c" configVersion="eeef8d3723385449a6aca0d3f5f8c27c00000000"/>
 		<Metadata name="Catalog.Товары" id="49594cc9-e090-408d-ba93-e4417fc083ba" configVersion="019bd882b3a9e6418e17af4758d460c200000000"/>
-		<Metadata name="Configuration.Конфигурация" id="e3d42ec5-1c56-43f1-8cc8-de2b192f7885" configVersion="6f63c6f3c772b54d906f567cf925a7b600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="e3d42ec5-1c56-43f1-8cc8-de2b192f7885" configVersion="8ff739de199302478caf0da197cbd37d00000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="c011b006-c774-45c6-b8a2-b4750fc56cce" configVersion="9f01aa00d078ba44a9b4f4ff98e76a7000000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Цена" id="190ddc6b-3e6d-458e-88c1-bfa6d09cce40"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Товар" id="5d007710-42fd-4aee-a8e7-c26a47cdf266"/>
@@ -14,5 +14,7 @@
 			<Metadata name="Document.ПриходнаяНакладная.Attribute.Склад" id="f81f3f0b-e41d-4638-b0fb-e98a731501f7"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="13809ee1-75ac-406a-8e31-3da4ce208715" configVersion="f807b596ea4ee04bbc9fe34861d87c5500000000"/>
+		<Metadata name="Role.ПолныеПрава" id="29cca8ed-2226-491d-bea8-c00b42823e3a" configVersion="a747c6be1fd4f5498118bc24fd0dfd6a00000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="29cca8ed-2226-491d-bea8-c00b42823e3a.0" configVersion="d8c000775769db4a88abfd7edbfa626100000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

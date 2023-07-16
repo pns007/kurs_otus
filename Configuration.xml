@@ -215,6 +215,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Role>ПолныеПрава</Role>
 			<Catalog>Склады</Catalog>
 			<Catalog>Товары</Catalog>
 			<Document>ПриходнаяНакладная</Document>
