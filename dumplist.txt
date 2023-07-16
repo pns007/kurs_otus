@@ -1,3 +1,2 @@
-﻿New: Role.ПолныеПрава
-New: Role.ПолныеПрава.Rights
+﻿New: AccumulationRegister.ОстаткиТоваров
 Modified: Configuration.Конфигурация

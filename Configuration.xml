@@ -219,6 +219,7 @@
 			<Catalog>Склады</Catalog>
 			<Catalog>Товары</Catalog>
 			<Document>ПриходнаяНакладная</Document>
+			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

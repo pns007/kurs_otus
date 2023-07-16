@@ -1,10 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиТоваров" id="2bf57550-7acd-4005-a442-f42636e6bd36" configVersion="f6df309de899274199d0f49bbd0c736300000000">
+			<Metadata name="AccumulationRegister.ОстаткиТоваров.Resource.Количество" id="6725e69e-1f3c-4bfb-8fce-698b90a9f779"/>
+			<Metadata name="AccumulationRegister.ОстаткиТоваров.Dimension.Товар" id="78db3ce5-98ba-44cd-baf2-8060fdcea69d"/>
+		</Metadata>
 		<Metadata name="Catalog.Склады" id="8d32628e-3ea5-40de-b66f-467231e78d34" configVersion="7628c0c55ef56841a48351aad9b421a600000000"/>
 		<Metadata name="Catalog.Склады.Predefined" id="8d32628e-3ea5-40de-b66f-467231e78d34.1c" configVersion="eeef8d3723385449a6aca0d3f5f8c27c00000000"/>
 		<Metadata name="Catalog.Товары" id="49594cc9-e090-408d-ba93-e4417fc083ba" configVersion="019bd882b3a9e6418e17af4758d460c200000000"/>
-		<Metadata name="Configuration.Конфигурация" id="e3d42ec5-1c56-43f1-8cc8-de2b192f7885" configVersion="8ff739de199302478caf0da197cbd37d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="e3d42ec5-1c56-43f1-8cc8-de2b192f7885" configVersion="66c68009d6094e48a7e40027621485a500000000"/>
 		<Metadata name="Document.ПриходнаяНакладная" id="c011b006-c774-45c6-b8a2-b4750fc56cce" configVersion="9f01aa00d078ba44a9b4f4ff98e76a7000000000">
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Цена" id="190ddc6b-3e6d-458e-88c1-bfa6d09cce40"/>
 			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Товар" id="5d007710-42fd-4aee-a8e7-c26a47cdf266"/>
