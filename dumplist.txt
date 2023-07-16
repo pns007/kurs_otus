@@ -1,2 +1,4 @@
-﻿New: AccumulationRegister.ОстаткиТоваров
-Modified: Configuration.Конфигурация
+﻿New: Document.ПриходнаяНакладная.Form.ФормаДокумента
+New: Document.ПриходнаяНакладная.Form.ФормаДокумента.Form
+New: Document.ПриходнаяНакладная.ObjectModule
+Modified: Document.ПриходнаяНакладная
